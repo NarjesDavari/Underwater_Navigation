@@ -12,7 +12,7 @@ To integrate SDINS with data from auxiliary sensors, different algorithms are de
 Also, In this repository, there is method for on-line outlier detection based NN [5] (see following figures):
 ![OD_DVL](https://github.com/NarjesDavari/Underwater_Navigation/blob/main/OD_DVL.PNG)
 
-![]()
+![Pro_NN](https://github.com/NarjesDavari/Underwater_Navigation/blob/main/Pro_NN.PNG)
 
 We have some related published works:
 
