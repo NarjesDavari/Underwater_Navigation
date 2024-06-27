@@ -1,3 +1,6 @@
+
+![AUV](https://github.com/NarjesDavari/Underwater_Navigation/blob/main/AUV.png)
+
 # Underwater_Navigation
 Algorithms for underwater integrated navigation system
 
