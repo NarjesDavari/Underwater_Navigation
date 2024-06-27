@@ -27,3 +27,5 @@ Nonlinear Dynamics 80, 71-85
 
 5- "Real-time outlier detection applied to a Doppler velocity log sensor based on hybrid autoencoder and recurrent neural network"
 N Davari, AP Aguiar. IEEE Journal of Oceanic Engineering 46 (4), 1288-1301
+
+6- An auv navigation system using an adaptive error state kalman filter based on variational bayesian,. Davari, AP Aguiar, JB de Sousa, 2018 IEEE/OES Autonomous Underwater Vehicle Workshop (AUV), 1-6
