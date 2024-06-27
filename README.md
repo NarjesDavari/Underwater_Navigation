@@ -2,9 +2,9 @@
 Algorithms for underwater integrated navigation system
 
 The designed real navigation system is composed of a high-rate strapdown inertial navigation system along with low-rate auxiliary sensors with different sampling rates. The auxiliary sensors consist of a global positioning system (GPS), a Doppler velocity log (DVL), a depthmeter, and an inclinometer.
-To integrate SDINS with data of auxiliary sensors, different algorithms are developed such as, variational Bayesian Kalman filter, Asynchronous Adaptive Direct Kalman.
+To integrate SDINS with data from auxiliary sensors, different algorithms are developed such as, variational Bayesian Kalman filter, Asynchronous Adaptive Direct Kalman [1-4].
 
-Also, In this repository there are method for on-line outlier detection based NN [5].
+Also, In this repository, there is method for on-line outlier detection based NN [5].
 
 We have some related published works:
 
