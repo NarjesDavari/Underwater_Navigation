@@ -1,6 +1,4 @@
 
-
-clear; clc;
 tic
 load('Velocity','Velocity')
 x_traning_set=Velocity.traning_set(3400:3800,2); %% ;%%
