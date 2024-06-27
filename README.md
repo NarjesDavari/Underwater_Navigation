@@ -1,6 +1,8 @@
 
 ![AUV](https://github.com/NarjesDavari/Underwater_Navigation/blob/main/AUV.png)
 
+![trajec](https://github.com/NarjesDavari/Underwater_Navigation/blob/main/trajec.png)
+
 # Underwater_Navigation
 Algorithms for underwater integrated navigation system
 
