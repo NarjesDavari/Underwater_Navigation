@@ -1,9 +1,8 @@
+# Underwater_Navigation
 
 ![AUV](https://github.com/NarjesDavari/Underwater_Navigation/blob/main/AUV.png)
 
 
-
-# Underwater_Navigation
 Algorithms for underwater integrated navigation system
 
 The designed real navigation system is composed of a high-rate strapdown inertial navigation system along with low-rate auxiliary sensors with different sampling rates. The auxiliary sensors consist of a global positioning system (GPS), a Doppler velocity log (DVL), a depthmeter, and an inclinometer.
