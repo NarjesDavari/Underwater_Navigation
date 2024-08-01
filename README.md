@@ -13,7 +13,7 @@ Also, In this repository, there is method for on-line outlier detection based NN
 
 ![Pro_NN](https://github.com/NarjesDavari/Underwater_Navigation/blob/main/Pro_NN.PNG)
 
-We have some related published works:
+The following is some my related published works:
 
 1- An asynchronous adaptive direct Kalman filter algorithm to improve underwater navigation system performance
 N Davari, A Gholami. IEEE Sensors Journal 17 (4), 1061-1068.
